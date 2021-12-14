@@ -1,7 +1,8 @@
 //weather object
 
 const weather = new Weather('Tallinn')
-
+//ui object
+const  ui = new UI()
 
 //get city weather
 function getWeather(){
